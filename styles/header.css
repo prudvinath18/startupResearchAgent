@@ -1,0 +1,15 @@
+:root {
+    /* Nude Color Palette */
+    --dark-brown: #3A2D28;
+    --brown1: #A48374;
+    --brown2: #CBAD8D;
+    --grey: #D1C7BD;
+    --cream: #EBE3DB;
+    --off-white: #F1EDE6;
+    
+    /* Gradient Variations */
+    --gradient-warm-earth: linear-gradient(135deg, var(--deep-chocolate) 0%, var(--warm-taupe) 50%, var(--sandy-beige) 100%);
+    --gradient-soft-neutral: linear-gradient(45deg, var(--sandy-beige) 0%, var(--light-greige) 50%, var(--cream) 100%);
+    --gradient-light-fade: linear-gradient(180deg, var(--cream) 0%, var(--off-white) 100%);
+    --gradient-full-spectrum: linear-gradient(90deg, var(--deep-chocolate) 0%, var(--warm-taupe) 20%, var(--sandy-beige) 40%, var(--light-greige) 60%, var(--cream) 80%, var(--off-white) 100%);
+}
